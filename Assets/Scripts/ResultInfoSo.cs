@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 namespace ToothlessTest
 {
@@ -10,5 +11,10 @@ namespace ToothlessTest
 #endif
         [field:SerializeField] public int Score { get; set; }
         [field:SerializeField] public string VideoFileName { get; private set; }
+
+        public void Reset()
+        {
+            Score = 0;
+        }
     }
 }
