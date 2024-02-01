@@ -1,10 +1,9 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace ToothlessTest
+namespace ToothlessTestSpace
 {
-    [CreateAssetMenu(menuName = "ResultInfoSo")]
-    public class ResultInfoSo : ScriptableObject
+    [CreateAssetMenu(menuName = "ResultDataSo", fileName = "ResultData")]
+    public class ResultDataSo : ScriptableObject
     {
 #if UNITY_EDITOR
         [field:SerializeField] public Sprite DebugSprite { get; private set; }
