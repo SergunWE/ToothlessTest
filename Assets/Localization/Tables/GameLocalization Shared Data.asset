@@ -415,14 +415,6 @@ MonoBehaviour:
     m_Key: Question100
     m_Metadata:
       m_Items: []
-  - m_Id: 8616512638976
-    m_Key: Test
-    m_Metadata:
-      m_Items: []
-  - m_Id: 5360055013376
-    m_Key: New Entry 1
-    m_Metadata:
-      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

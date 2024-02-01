@@ -19,407 +19,404 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 5305122213888
-    m_Localized: fff
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8616512638976
-    m_Localized: 
+    m_Localized: What's your favorite snack?
     m_Metadata:
       m_Items: []
   - m_Id: 5332238389248
-    m_Localized: 
+    m_Localized: Where do you love to nap?
     m_Metadata:
       m_Items: []
   - m_Id: 5350265507840
-    m_Localized: 
+    m_Localized: What's your go-to activity during playtime?
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545856
-    m_Localized: 
+    m_Localized: Choose your perfect color scheme
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545857
-    m_Localized: 
+    m_Localized: How do you communicate?
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545858
-    m_Localized: 
+    m_Localized: What's your favorite bedtime story?
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545859
-    m_Localized: 
+    m_Localized: What's your preferred weather?
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545860
-    m_Localized: 
+    m_Localized: Pick your accessory of choice
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545861
-    m_Localized: 
+    m_Localized: Choose your best friend for a day of fun
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545862
-    m_Localized: 
+    m_Localized: How do you celebrate?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740160
-    m_Localized: 
+    m_Localized: Preferred mode of transportation?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740161
-    m_Localized: 
+    m_Localized: Favorite element to control?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740162
-    m_Localized: 
+    m_Localized: Best way to spend a rainy day?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740163
-    m_Localized: 
+    m_Localized: Ideal hideout in a game of hide-and-seek?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740164
-    m_Localized: 
+    m_Localized: If you could have a pet, what would it be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740165
-    m_Localized: 
+    m_Localized: Your preferred method of stargazing?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740166
-    m_Localized: 
+    m_Localized: Dream job in a fantasy world?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740167
-    m_Localized: 
+    m_Localized: Which enchanted object would you choose?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740168
-    m_Localized: 
+    m_Localized: Best way to make friends with magical beings?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740169
-    m_Localized: 
+    m_Localized: Choose a whimsical mode of communication
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740170
-    m_Localized: 
+    m_Localized: Preferred shape for clouds in the sky?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740171
-    m_Localized: 
+    m_Localized: Your go-to magical power?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740172
-    m_Localized: 
+    m_Localized: Ideal spot for a secret garden?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740173
-    m_Localized: 
+    m_Localized: Best way to capture starlight?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740174
-    m_Localized: 
+    m_Localized: If you had a flying companion, what would it be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740175
-    m_Localized: 
+    m_Localized: Your favorite form of art in a magical world?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740176
-    m_Localized: 
+    m_Localized: Your preferred weather for a magical adventure?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740177
-    m_Localized: 
+    m_Localized: Ideal mode of crossing a magical river?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740178
-    m_Localized: 
+    m_Localized: Your role in a fantastical play?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740179
-    m_Localized: 
+    m_Localized: Your magical mentor of choice?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740180
-    m_Localized: 
+    m_Localized: Preferred magical mode of travel?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740181
-    m_Localized: 
+    m_Localized: Your totem animal
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740182
-    m_Localized: 
+    m_Localized: Your go-to spell for everyday tasks?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740183
-    m_Localized: 
+    m_Localized: Ideal place for a magical picnic?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740184
-    m_Localized: 
+    m_Localized: If you could have a mythical job, what would it be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740185
-    m_Localized: 
+    m_Localized: What's your preferred weather in a magical world?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740186
-    m_Localized: 
+    m_Localized: If you had a magical artifact, what would it do?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740187
-    m_Localized: 
+    m_Localized: What's your favorite form of magical communication?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740188
-    m_Localized: 
+    m_Localized: Preferred shape for a cloud in the sky?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740189
-    m_Localized: 
+    m_Localized: If you could attend a magical school, what elective would you choose?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740190
-    m_Localized: 
+    m_Localized: Your magical talent?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740191
-    m_Localized: 
+    m_Localized: Best way to spend a day in a magical library?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740192
-    m_Localized: 
+    m_Localized: Ideal enchanted accessory?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740193
-    m_Localized: 
+    m_Localized: If you could have a mythical pet, what would it be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740194
-    m_Localized: 
+    m_Localized: Preferred form of magical entertainment?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740195
-    m_Localized: 
+    m_Localized: What's your go-to spell for creating light?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740196
-    m_Localized: 
+    m_Localized: Ideal potion flavor?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740197
-    m_Localized: 
+    m_Localized: If you could have a magical mentor, who would it be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740198
-    m_Localized: 
+    m_Localized: Your preferred magical creature to encounter?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740199
-    m_Localized: 
+    m_Localized: Best spot for a magical hideaway?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740200
-    m_Localized: 
+    m_Localized: What's your magical mode of communication with friends?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934464
-    m_Localized: 
+    m_Localized: Pick your favorite dish
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934465
-    m_Localized: 
+    m_Localized: Best way to communicate with mythical creatures?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934466
-    m_Localized: 
+    m_Localized: In what time does the Moon make a complete revolution around the
+      Earth?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934467
-    m_Localized: 
+    m_Localized: What would be your dragon's signature magical ability?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934468
-    m_Localized: 
+    m_Localized: If your dragon had a magical lair, what would it be made of?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934469
-    m_Localized: 
+    m_Localized: Best way to celebrate a magical festival?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934470
-    m_Localized: 
+    m_Localized: Your preferred magical element to control?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934471
-    m_Localized: 
+    m_Localized: Your favorite enchanted flower?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934472
-    m_Localized: 
+    m_Localized: What are you interested in at the moment?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934473
-    m_Localized: 
+    m_Localized: What skills or abilities would you like to learn?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934474
-    m_Localized: 
+    m_Localized: Your magical morning routine?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934475
-    m_Localized: 
+    m_Localized: Best way to navigate a magical river?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934476
-    m_Localized: 
+    m_Localized: How do you relax after a busy day?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934477
-    m_Localized: 
+    m_Localized: What values are most important to you?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934478
-    m_Localized: 
+    m_Localized: How do you feel about your work or studies?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934479
-    m_Localized: 
+    m_Localized: What qualities in people do you value most?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934480
-    m_Localized: 
+    m_Localized: How do you inspire and motivate yourself?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934481
-    m_Localized: 
+    m_Localized: How do you feel about kitties?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934482
-    m_Localized: 
+    m_Localized: How do you feel about doggies?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934483
-    m_Localized: 
+    m_Localized: How angry are you?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934484
-    m_Localized: 
+    m_Localized: How are you resting?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934485
-    m_Localized: 
+    m_Localized: How do you tame a dragon?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934486
-    m_Localized: 
+    m_Localized: You like to have fun?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934487
-    m_Localized: 
+    m_Localized: Are you tall?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934488
-    m_Localized: 
+    m_Localized: Do you love nature?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934489
-    m_Localized: 
+    m_Localized: What kind of music do you like?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934490
-    m_Localized: 
+    m_Localized: Would you say you're a curious person?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934491
-    m_Localized: 
+    m_Localized: What places would you like to visit in the future?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934492
-    m_Localized: 
+    m_Localized: Favorite time of year?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934493
-    m_Localized: 
+    m_Localized: Favorite magical treat?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934494
-    m_Localized: 
+    m_Localized: What's your favorite drink?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934495
-    m_Localized: 
+    m_Localized: What's your most hated color?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934496
-    m_Localized: 
+    m_Localized: Who do you want to be in your favorite movie?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934497
-    m_Localized: 
+    m_Localized: If you are a flower, what do you want to be?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934498
-    m_Localized: 
+    m_Localized: If you were turned into an animal, which one would you prefer?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934499
-    m_Localized: 
+    m_Localized: What's your favorite game?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934500
-    m_Localized: 
+    m_Localized: What game do you want to get into their world?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934501
-    m_Localized: 
+    m_Localized: What are you most afraid of?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128768
-    m_Localized: 
+    m_Localized: What do you love most in life?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128769
-    m_Localized: 
+    m_Localized: What's the most beautiful thing you've ever seen?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128770
-    m_Localized: 
+    m_Localized: What do you do when you're in a bad mood?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128771
-    m_Localized: 
+    m_Localized: What's the most annoying question you've ever been asked?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128772
-    m_Localized: 
+    m_Localized: Why do dreams occur in dreams?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128773
-    m_Localized: 
+    m_Localized: Do you collect anything?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128774
-    m_Localized: 
+    m_Localized: What's your favorite motto?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128775
-    m_Localized: 
+    m_Localized: Do you play video games?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128776
-    m_Localized: 
+    m_Localized: Tea or coffee?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128777
-    m_Localized: 
+    m_Localized: Have you ever picked mushrooms?
     m_Metadata:
       m_Items: []
   - m_Id: 8916292128778
-    m_Localized: 
+    m_Localized: Have you ever picked berries?
     m_Metadata:
       m_Items: []
   references:
