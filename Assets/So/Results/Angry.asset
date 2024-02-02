@@ -10,8 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cdb0859ea64e4f7b9ac5a1d2daaf4ebe, type: 3}
-  m_Name: Chillin
+  m_Name: Angry
   m_EditorClassIdentifier: 
-  <DebugSprite>k__BackingField: {fileID: 21300000, guid: de542b58db2762a4886a7f60b55365d4, type: 3}
+  <DebugSprite>k__BackingField: {fileID: 21300000, guid: e50aa2548a0c07e4ebe9856529d2c957, type: 3}
   <Score>k__BackingField: 0
+  <Name>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb2ea753460040e4ca19efe58ec8dc1e
+    m_TableEntryReference:
+      m_KeyId: 50426859520
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   <VideoFileName>k__BackingField: 
+  references:
+    version: 2
+    RefIds: []

@@ -18,7 +18,13 @@ MonoBehaviour:
   m_GUID: d0e305787a1531b43b53ae7d49574605
   m_SerializeEntries:
   - m_GUID: 3f69dbf9cb63872409d3edba2de332cb
-    m_Address: GameLocalization_tr
+    m_Address: Questions_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d79e288e67482084ab56a4fadfd568f4
+    m_Address: Results_tr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-tr

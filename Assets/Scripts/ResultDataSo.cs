@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Localization;
 
 namespace ToothlessTestSpace
 {
@@ -9,6 +10,7 @@ namespace ToothlessTestSpace
         [field:SerializeField] public Sprite DebugSprite { get; private set; }
 #endif
         [field:SerializeField] public int Score { get; set; }
+        [field:SerializeField] public LocalizedString Name { get; private set; }
         [field:SerializeField] public string VideoFileName { get; private set; }
 
         public void Reset()

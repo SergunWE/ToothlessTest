@@ -8,6 +8,6 @@ namespace ToothlessTestSpace
     public class QuestionDataSo : ScriptableObject
     {
         [field:SerializeField] public LocalizedString Question { get; private set; }
-        [field:SerializeField] public List<AnswerData> AnswersData { get; private set; }
+        [field: SerializeField] public List<AnswerData> AnswersData { get; private set; }
     }
 }

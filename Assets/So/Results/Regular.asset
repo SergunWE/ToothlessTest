@@ -10,8 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cdb0859ea64e4f7b9ac5a1d2daaf4ebe, type: 3}
-  m_Name: Smol
+  m_Name: Regular
   m_EditorClassIdentifier: 
-  <DebugSprite>k__BackingField: {fileID: 21300000, guid: a774452bd74116a4ab7106550f309090, type: 3}
+  <DebugSprite>k__BackingField: {fileID: 21300000, guid: eba0900720216a94e8745fdcadc102e2, type: 3}
   <Score>k__BackingField: 0
+  <Name>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb2ea753460040e4ca19efe58ec8dc1e
+    m_TableEntryReference:
+      m_KeyId: 226474381312
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   <VideoFileName>k__BackingField: 
+  references:
+    version: 2
+    RefIds: []

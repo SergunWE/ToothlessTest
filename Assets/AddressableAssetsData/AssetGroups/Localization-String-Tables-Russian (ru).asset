@@ -18,7 +18,13 @@ MonoBehaviour:
   m_GUID: e3a89c86a0679cf4b834a9db89ea4c00
   m_SerializeEntries:
   - m_GUID: c53c8b60973472041908e86c23fc6de4
-    m_Address: GameLocalization_ru
+    m_Address: Questions_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fbdc2a1db3f1dd43894b139dfebc860
+    m_Address: Results_ru
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ru

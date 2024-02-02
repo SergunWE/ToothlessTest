@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
-  m_Name: GameLocalization
+  m_Name: Results
   m_EditorClassIdentifier: 
-  m_SharedTableData: {fileID: 11400000, guid: bbe82cce260cdaf41bbbd96764fb8778, type: 2}
+  m_SharedTableData: {fileID: 11400000, guid: bb2ea753460040e4ca19efe58ec8dc1e, type: 2}
   m_Tables:
-  - {fileID: 11400000, guid: c53c8b60973472041908e86c23fc6de4, type: 2}
-  - {fileID: 11400000, guid: 3dda6edaf88834549a4c0634209534a1, type: 2}
-  - {fileID: 11400000, guid: 3f69dbf9cb63872409d3edba2de332cb, type: 2}
+  - {fileID: 11400000, guid: 2fbdc2a1db3f1dd43894b139dfebc860, type: 2}
+  - {fileID: 11400000, guid: e57b96f09cf80fb4ab5efc8dfb0164b2, type: 2}
+  - {fileID: 11400000, guid: d79e288e67482084ab56a4fadfd568f4, type: 2}
   m_Extensions: []
   m_Group: String Table
   references:
