@@ -17,7 +17,927 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 084a5fbba0972484a8e64189f532ff01, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 5280036081664
+    m_Localized: Fruit bites
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280036081665
+    m_Localized: Sunny meadows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280036081666
+    m_Localized: Hide-and-seek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280036081667
+    m_Localized: Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275968
+    m_Localized: Whistles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275969
+    m_Localized: Stardust Tale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275970
+    m_Localized: Cloudy skies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275971
+    m_Localized: Ocean shores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470282
+    m_Localized: Fishy treats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470382
+    m_Localized: Honey drops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664660
+    m_Localized: Star cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275973
+    m_Localized: Firework fiesta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470291
+    m_Localized: Dance party
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470391
+    m_Localized: Moonbeam picnic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664669
+    m_Localized: Aurora light show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470281
+    m_Localized: I love doing it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470381
+    m_Localized: I've done it a couple times
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664659
+    m_Localized: I've never picked one
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5831461228544
+    m_Localized: What are berries?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275974
+    m_Localized: Flying on a magic carpet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470292
+    m_Localized: Riding a majestic unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470392
+    m_Localized: Sailing in a pirate ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664670
+    m_Localized: Zooming on a rocket-powered skateboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275975
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470293
+    m_Localized: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470393
+    m_Localized: Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664671
+    m_Localized: Air
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275976
+    m_Localized: Reading a magical book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470294
+    m_Localized: Dancing in the rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470394
+    m_Localized: Solving puzzles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664672
+    m_Localized: Baking cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275977
+    m_Localized: Treetop nest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470295
+    m_Localized: Giant mushroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470395
+    m_Localized: Glittering cave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664673
+    m_Localized: Secret garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275978
+    m_Localized: Sparkly dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470296
+    m_Localized: Talking cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470396
+    m_Localized: Loyal phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664674
+    m_Localized: Flying turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275979
+    m_Localized: Lying on a soft cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470297
+    m_Localized: Building a fort with blankets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470397
+    m_Localized: Floating in a hot air balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664675
+    m_Localized: Camping in a magical forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275980
+    m_Localized: Potion maker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470298
+    m_Localized: Sky explorer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664576
+    m_Localized: Mythical creature trainer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664676
+    m_Localized: Rainbow painter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275981
+    m_Localized: Magic mirror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470299
+    m_Localized: Crystal ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664577
+    m_Localized: Wishing well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664677
+    m_Localized: Time-traveling hourglass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275982
+    m_Localized: Offering sweets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470300
+    m_Localized: Telling jokes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664578
+    m_Localized: Sharing dreams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664678
+    m_Localized: Dancing together
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470283
+    m_Localized: Cozy caves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470383
+    m_Localized: Cloudy skies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664661
+    m_Localized: Ocean shores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275983
+    m_Localized: Butterfly messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470301
+    m_Localized: Starry telepathy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664579
+    m_Localized: Potion-induced dreams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664679
+    m_Localized: Whispering to the wind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275984
+    m_Localized: Fluffy animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470302
+    m_Localized: Castle turrets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664580
+    m_Localized: Swirling galaxies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664680
+    m_Localized: Gigantic cupcakes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275985
+    m_Localized: Invisibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470303
+    m_Localized: Teleportation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664581
+    m_Localized: Shape-shifting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664681
+    m_Localized: Time manipulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275986
+    m_Localized: Behind a waterfall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470304
+    m_Localized: At the edge of a rainbow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664582
+    m_Localized: Beneath a moonlit tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664682
+    m_Localized: Floating on a cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275987
+    m_Localized: Firefly lantern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470305
+    m_Localized: Gleaming crystal jar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664583
+    m_Localized: Glittering butterfly net
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664683
+    m_Localized: Radiant sunflower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275988
+    m_Localized: Winged unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470306
+    m_Localized: Sky dolphin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664584
+    m_Localized: Feathered griffin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664684
+    m_Localized: Floating jellyfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275989
+    m_Localized: Potion poetry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470307
+    m_Localized: Wand painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664585
+    m_Localized: Skywriting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664685
+    m_Localized: Crystal sculpting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275990
+    m_Localized: Golden sunshine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470308
+    m_Localized: Silver moonlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664586
+    m_Localized: Shimmering rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664686
+    m_Localized: Mystical fog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275991
+    m_Localized: Rainbow bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470309
+    m_Localized: Floating lily pads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664587
+    m_Localized: Glowing stepping stones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664687
+    m_Localized: Air-balloon ferry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275992
+    m_Localized: Enchanting storyteller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470310
+    m_Localized: Heroic adventurer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664588
+    m_Localized: Mysterious sorcerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664688
+    m_Localized: Whimsical jester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470284
+    m_Localized: Cloud hopping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470384
+    m_Localized: Treasure hunt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664662
+    m_Localized: Bubble chasing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275993
+    m_Localized: Wise old wizard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470311
+    m_Localized: Elegant fairy godparent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664589
+    m_Localized: Ancient dragon sage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664689
+    m_Localized: Mischievous leprechaun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275994
+    m_Localized: I'm a Kungfu Panda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470312
+    m_Localized: I know karate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664590
+    m_Localized: I tried, but I didn't like it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664690
+    m_Localized: Didn't study
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275995
+    m_Localized: Crane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470313
+    m_Localized: Swift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664591
+    m_Localized: Polar bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664691
+    m_Localized: Rat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275996
+    m_Localized: Levitation charm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470314
+    m_Localized: Communication spell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664592
+    m_Localized: Transformation hex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664692
+    m_Localized: Illumination enchantment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275997
+    m_Localized: Enchanted meadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470315
+    m_Localized: Whimsical forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664593
+    m_Localized: Crystal-clear lake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664693
+    m_Localized: Mystical mountain top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275998
+    m_Localized: Rice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470316
+    m_Localized: Peas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664594
+    m_Localized: Buckwheat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664694
+    m_Localized: Chickpeas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275999
+    m_Localized: Eternal sunshine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470317
+    m_Localized: Gentle rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664595
+    m_Localized: Sparkling snow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664695
+    m_Localized: Playful thunderstorms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276000
+    m_Localized: Grant wishes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470318
+    m_Localized: Time travel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664596
+    m_Localized: Communicate with animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664696
+    m_Localized: Provide endless knowledge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276001
+    m_Localized: I'm the best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470319
+    m_Localized: I'm smart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664597
+    m_Localized: I can cook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858880
+    m_Localized: I'm strong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470320
+    m_Localized: A noisy club
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276002
+    m_Localized: A soft bed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664598
+    m_Localized: Calm nature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858881
+    m_Localized: City park
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470285
+    m_Localized: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470385
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664663
+    m_Localized: Purple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276003
+    m_Localized: Astronomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470321
+    m_Localized: Magical creatures studies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664599
+    m_Localized: Herbology
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858882
+    m_Localized: Flying lessons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276004
+    m_Localized: Telekinesis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470322
+    m_Localized: Pyrokinesis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664600
+    m_Localized: Levitation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858883
+    m_Localized: Clairvoyance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276005
+    m_Localized: Reading ancient scrolls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470323
+    m_Localized: Browsing spellbooks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664601
+    m_Localized: Consulting magical maps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858884
+    m_Localized: Chatting with wise librarians
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276006
+    m_Localized: Crystal amulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470324
+    m_Localized: Feathered headband
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664602
+    m_Localized: Glowing wristband
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858885
+    m_Localized: Shimmering cloak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276007
+    m_Localized: Tiny dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470325
+    m_Localized: Winged serpent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664603
+    m_Localized: Phoenix chick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858886
+    m_Localized: Mythical cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276008
+    m_Localized: Firework display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470326
+    m_Localized: Starry dance party
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664604
+    m_Localized: Illusion show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858887
+    m_Localized: Storytelling under the moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276009
+    m_Localized: Lumos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470327
+    m_Localized: Radiantis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664605
+    m_Localized: Twinkleflare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858888
+    m_Localized: Daybreakus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276010
+    m_Localized: Sparkling citrus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470328
+    m_Localized: Minty cool
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664606
+    m_Localized: Sweet lavender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858889
+    m_Localized: Fiery cinnamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276011
+    m_Localized: On the beach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470329
+    m_Localized: In a cabin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664607
+    m_Localized: Outside
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858890
+    m_Localized: In a dream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276012
+    m_Localized: It sings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470330
+    m_Localized: Dances
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664608
+    m_Localized: Flying away
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858891
+    m_Localized: It goes to the heels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470286
+    m_Localized: Roars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470386
+    m_Localized: Hums
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664664
+    m_Localized: Tail flicks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276013
+    m_Localized: Coffee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470331
+    m_Localized: Tea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664609
+    m_Localized: Wine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858892
+    m_Localized: Bath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276014
+    m_Localized: Crystal messaging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470332
+    m_Localized: Telepathic connection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664610
+    m_Localized: Sending magical signals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858893
+    m_Localized: Secret coded letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276015
+    m_Localized: Tacos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470333
+    m_Localized: Pizzas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664611
+    m_Localized: Ramen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858894
+    m_Localized: Curry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276016
+    m_Localized: Iron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470334
+    m_Localized: Copper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664612
+    m_Localized: Brass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858895
+    m_Localized: Violin key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276017
+    m_Localized: 24 hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470335
+    m_Localized: 27.3 days
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664613
+    m_Localized: 29.5 days
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858896
+    m_Localized: 365 days
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276018
+    m_Localized: Healing touch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470336
+    m_Localized: Shape-shifting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664614
+    m_Localized: Mind reading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858897
+    m_Localized: Grow manipulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276019
+    m_Localized: Crystal cavern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470337
+    m_Localized: Living treehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664615
+    m_Localized: Floating islands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858898
+    m_Localized: Cloud castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276020
+    m_Localized: Spend an evening with loved ones sharing magical stories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470338
+    m_Localized: Have a costume magic show
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664616
+    m_Localized: Light candles and hold a blessing ceremony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858899
+    m_Localized: Take a trip to a mysterious place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276021
+    m_Localized: Disappears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470339
+    m_Localized: Changes color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664617
+    m_Localized: Changes shape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858900
+    m_Localized: Changes size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276022
+    m_Localized: Witches' rose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470340
+    m_Localized: Moon lotus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664618
+    m_Localized: Star tulip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858901
+    m_Localized: Fairy iris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470287
+    m_Localized: Moonlit Adventures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470387
+    m_Localized: Ocean Lullabies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664665
+    m_Localized: Forest Whispers
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

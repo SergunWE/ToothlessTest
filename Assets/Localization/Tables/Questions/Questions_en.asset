@@ -35,7 +35,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545857
-    m_Localized: How do you communicate?
+    m_Localized: You became a dragon. How do you communicate?
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545858
@@ -139,7 +139,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740180
-    m_Localized: Preferred magical mode of travel?
+    m_Localized: Have you ever tried to learn a martial art?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740181
@@ -155,7 +155,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740184
-    m_Localized: If you could have a mythical job, what would it be?
+    m_Localized: What kind of groats are used to make real pilaf?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740185
@@ -167,11 +167,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740187
-    m_Localized: What's your favorite form of magical communication?
+    m_Localized: What's your best quality?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740188
-    m_Localized: Preferred shape for a cloud in the sky?
+    m_Localized: What's your favorite vacation spot?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740189
@@ -207,15 +207,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740197
-    m_Localized: If you could have a magical mentor, who would it be?
+    m_Localized: Would you rather be on the beach or in a cozy cabin?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740198
-    m_Localized: Your preferred magical creature to encounter?
+    m_Localized: What happens to the soul of man when he rejoices?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740199
-    m_Localized: Best spot for a magical hideaway?
+    m_Localized: What ancient ceremony exists in Japan?
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740200
@@ -227,7 +227,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934465
-    m_Localized: Best way to communicate with mythical creatures?
+    m_Localized: What key can't be used to open an apartment door?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934466
@@ -248,7 +248,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934470
-    m_Localized: Your preferred magical element to control?
+    m_Localized: What happens to the disk of the Moon during a total lunar eclipse?
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934471

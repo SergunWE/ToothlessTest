@@ -36,7 +36,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545857
-    m_Localized: "Nas\u0131l ileti\u015Fim kuruyorsunuz?"
+    m_Localized: "Sen bir ejderha oldun. Nas\u0131l ileti\u015Fim kuruyorsunuz?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916279545858
@@ -145,7 +145,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740180
-    m_Localized: "Tercih edilen b\xFCy\xFCl\xFC seyahat \u015Fekli?"
+    m_Localized: "Hi\xE7 bir d\xF6v\xFC\u015F sanat\u0131 \xF6\u011Frenmeyi denediniz
+      mi?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740181
@@ -162,7 +163,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740184
-    m_Localized: "E\u011Fer efsanevi bir i\u015Finiz olsayd\u0131, bu ne olurdu?"
+    m_Localized: "Ger\xE7ek pilav yapmak i\xE7in ne t\xFCr kabu\u011Fu \xE7\u0131kar\u0131lm\u0131\u015F
+      tane kullan\u0131l\u0131r?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740185
@@ -175,11 +177,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740187
-    m_Localized: "En sevdi\u011Fin b\xFCy\xFCl\xFC ileti\u015Fim \u015Fekli nedir?"
+    m_Localized: "En iyi \xF6zelli\u011Finiz nedir?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740188
-    m_Localized: "G\xF6ky\xFCz\xFCndeki bir bulut i\xE7in tercih edilen \u015Fekil?"
+    m_Localized: "En sevdi\u011Finiz dinlenme yeri neresidir?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740189
@@ -219,17 +221,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740197
-    m_Localized: "E\u011Fer sihirli bir ak\u0131l hocan\u0131z olsayd\u0131, bu kim
-      olurdu?"
+    m_Localized: "Sahilde mi yoksa rahat bir kul\xFCbede mi olmay\u0131 tercih edersiniz?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740198
-    m_Localized: "Kar\u015F\u0131la\u015Fmak i\xE7in tercih etti\u011Finiz b\xFCy\xFCl\xFC
-      yarat\u0131k?"
+    m_Localized: "\u0130nsan sevindi\u011Finde ruhuna ne olur?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740199
-    m_Localized: "B\xFCy\xFCl\xFC bir s\u0131\u011F\u0131nak i\xE7in en iyi yer?"
+    m_Localized: "Japonya'da hangi eski t\xF6ren var?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916283740200
@@ -242,8 +242,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934465
-    m_Localized: "Efsanevi yarat\u0131klarla ileti\u015Fim kurman\u0131n en iyi yolu
-      nedir?"
+    m_Localized: "Daire kap\u0131s\u0131n\u0131 a\xE7mak i\xE7in hangi anahtar kullan\u0131lamaz?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934466
@@ -264,7 +263,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934470
-    m_Localized: "Kontrol etmek i\xE7in tercih etti\u011Finiz b\xFCy\xFCl\xFC element?"
+    m_Localized: "Tam Ay tutulmas\u0131 s\u0131ras\u0131nda Ay'\u0131n diskine ne
+      olur?"
     m_Metadata:
       m_Items: []
   - m_Id: 8916287934471
