@@ -933,6 +933,204 @@ MonoBehaviour:
     m_Localized: "Orman F\u0131s\u0131lt\u0131lar\u0131"
     m_Metadata:
       m_Items: []
+  - m_Id: 5280040276023
+    m_Localized: "Teknoloji ve yenilik\xE7ilik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470341
+    m_Localized: "Sanat ve k\xFClt\xFCr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664619
+    m_Localized: "Do\u011Fa ve ekoloji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858902
+    m_Localized: "Ki\u015Fisel geli\u015Fim ve kendini ke\u015Ffetme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276024
+    m_Localized: "Programlama ve geli\u015Ftirme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470342
+    m_Localized: "\u0130leti\u015Fim ve Liderlik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664620
+    m_Localized: "M\xFCzik ve yarat\u0131c\u0131l\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858903
+    m_Localized: "\xD6z y\xF6netim ve organizasyon becerileri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276025
+    m_Localized: "Bir bulutun \xFCzerinde g\xFCne\u015Flenmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470343
+    m_Localized: "Mistik bir g\xF6lde serinletici bir dal\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664621
+    m_Localized: "Sabah \xE7iyiyle dans etmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858904
+    m_Localized: "B\xFCy\xFCl\xFC \xE7i\xE7eklerin aromas\u0131n\u0131 solumak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276026
+    m_Localized: "G\xF6kku\u015Fa\u011F\u0131 k\xF6pr\xFCs\xFC \xFCzerinde s\xFCz\xFClmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470344
+    m_Localized: "I\u015F\u0131ldayan zambak yast\u0131klar\u0131 \xFCzerinde s\xFCr\xFCn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664622
+    m_Localized: "I\u015F\u0131ktan basamak ta\u015Flar\u0131 \xFCzerinde y\xFCr\xFCy\xFCn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858905
+    m_Localized: "Mehtapl\u0131 bir teknede yelken a\xE7\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276027
+    m_Localized: "Rahat bir k\xF6\u015Fede kitap okumak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470345
+    m_Localized: "B\xFCy\xFCl\xFC bir bah\xE7ede gezinmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664623
+    m_Localized: "Bir da\u011F\u0131n tepesinden g\xFCn bat\u0131m\u0131n\u0131 izlemek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858906
+    m_Localized: "Sakin bir y\u0131ld\u0131z \u0131\u015F\u0131\u011F\u0131 havuzunda
+      y\xFCzmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276028
+    m_Localized: Bilgelik ve bilgi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470346
+    m_Localized: "Arkada\u015Fl\u0131k ve yolda\u015Fl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664624
+    m_Localized: Uyum ve denge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858907
+    m_Localized: Cesaret ve macera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276029
+    m_Localized: Bana ilham veriyor ve beni tatmin ediyor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470347
+    m_Localized: "Bazen ilgin\xE7, ama yorgunluk anlar\u0131 da oluyor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664625
+    m_Localized: "N\xF6tr, bu sadece g\xFCnl\xFCk rutinin bir par\xE7as\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858908
+    m_Localized: "Kendimi bask\u0131 alt\u0131nda ve stresli hissediyorum, bir \u015Feylerin
+      de\u011Fi\u015Fmesi gerekiyor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276030
+    m_Localized: "Nezaket ve a\xE7\u0131kl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470348
+    m_Localized: "Ba\u015Fkalar\u0131n\u0131 dinleme ve anlama becerisi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664626
+    m_Localized: "D\xFCr\xFCstl\xFCk ve g\xFCvenilirlik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858909
+    m_Localized: "Yarat\u0131c\u0131 d\xFC\u015F\xFCnme ve yenilik\xE7ilik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276031
+    m_Localized: "Belirli hedefler ve bu hedeflere ula\u015Fmak i\xE7in at\u0131lacak
+      ad\u0131mlar belirleyin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470349
+    m_Localized: "Sanat, edebiyat veya m\xFCzikten ilham almak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664627
+    m_Localized: "Motive edici ki\u015Filerle ba\u011Flant\u0131 kurmak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858910
+    m_Localized: "\xC7e\u015Fitli ki\u015Fisel geli\u015Fim ve \xF6\u011Frenme y\xF6ntemleri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276032
+    m_Localized: "Onlar\u0131 seviyorum, harikalar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470350
+    m_Localized: "Onlar\u0131 severim ama di\u011Fer evcil hayvanlar\u0131 tercih
+      ederim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664628
+    m_Localized: "N\xF6tr bir tavr\u0131m var, kediciklere kar\u015F\u0131 kay\u0131ts\u0131z\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858911
+    m_Localized: Kedicikleri sevmiyorum veya onlardan korkuyorum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275970
+    m_Localized: "G\xFCne\u015Fli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470288
+    m_Localized: Puslu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470388
+    m_Localized: "Ya\u011Fmurlu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664666
+    m_Localized: "Karl\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276033
+    m_Localized: "Onlar\u0131 seviyorum, k\xF6peklerin ba\u011Fl\u0131l\u0131\u011F\u0131
+      rakipsizdir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470351
+    m_Localized: "Onlardan ho\u015Flan\u0131yorum, k\xF6peklerin arkada\u015Fl\u0131\u011F\u0131n\u0131
+      takdir ediyorum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664629
+    m_Localized: "Ben tarafs\u0131z\u0131m, t\xFCm k\xF6peklere kar\u015F\u0131 kay\u0131ts\u0131z\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858912
+    m_Localized: "K\xF6pekleri sevmiyorum veya onlardan korkuyorum"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
