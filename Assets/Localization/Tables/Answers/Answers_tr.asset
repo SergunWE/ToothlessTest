@@ -1131,6 +1131,86 @@ MonoBehaviour:
     m_Localized: "K\xF6pekleri sevmiyorum veya onlardan korkuyorum"
     m_Metadata:
       m_Items: []
+  - m_Id: 5280040276034
+    m_Localized: "Tamamen sakinimdir, hi\xE7bir \u015Fey beni sinirlendiremez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470352
+    m_Localized: "Bazen sinirlenirim ama genellikle \xE7abucak sakinle\u015Firim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664630
+    m_Localized: "Ciddi \xF6fke n\xF6betlerim olur ama kendimi kontrol etmeye \xE7al\u0131\u015F\u0131r\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858913
+    m_Localized: "\xC7ok sinirlenirim ve duygular\u0131m\u0131 kontrol etmekte zorlan\u0131r\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276035
+    m_Localized: "Ho\u015Fuma giden hobiler veya e\u011Flenceler yapar\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470353
+    m_Localized: "Rahatlamak i\xE7in film izler veya kitap okurum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664631
+    m_Localized: "Enerji kazanmak i\xE7in uyurum veya dinlenirim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858914
+    m_Localized: "Arkada\u015Flar\u0131mla veya sevdiklerimle sosyalle\u015Firim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276036
+    m_Localized: "Sab\u0131r ve sayg\u0131 ile yakla\u015F\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470354
+    m_Localized: Nadir bulunan bir hazine hediye edin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664632
+    m_Localized: "Sakinle\u015Ftirici bir melodi s\xF6yleyin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858915
+    m_Localized: "Nazik jestlerle g\xFCven olu\u015Fturun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276037
+    m_Localized: "Evet, e\u011Flenmeyi ve her \u015Feyden keyif almay\u0131 seviyorum!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470355
+    m_Localized: "Bazen, zaman zaman e\u011Flenmeyi severim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664633
+    m_Localized: "N\xF6tr, bazen e\u011Flence g\xFCzeldir ama her zaman de\u011Fil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858916
+    m_Localized: "Hay\u0131r, daha ciddi aktiviteleri tercih ederim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276038
+    m_Localized: Evet, uzunum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470356
+    m_Localized: "Ortalaman\u0131n biraz \xFCst\xFCnde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664634
+    m_Localized: "Ortalama boyday\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858917
+    m_Localized: "Ortalaman\u0131n alt\u0131nda"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

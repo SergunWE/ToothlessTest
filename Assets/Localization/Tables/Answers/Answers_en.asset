@@ -1126,6 +1126,86 @@ MonoBehaviour:
     m_Localized: I don't like or am afraid of dogs
     m_Metadata:
       m_Items: []
+  - m_Id: 5280040276034
+    m_Localized: Completely calm, nothing can make me mad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470352
+    m_Localized: Sometimes I get angry, but I usually calm down quickly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664630
+    m_Localized: I have serious fits of anger, but I try to control myself
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858913
+    m_Localized: I get angry a lot and have a hard time controlling my emotions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276035
+    m_Localized: I do hobbies or pastimes that I enjoy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470353
+    m_Localized: Watch movies or read books to relax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664631
+    m_Localized: I sleep or rest to regain energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858914
+    m_Localized: I socialize with friends or loved ones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276036
+    m_Localized: Approach with patience and respect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470354
+    m_Localized: Offer a gift of rare treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664632
+    m_Localized: Sing a calming melody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858915
+    m_Localized: Establish trust through gentle gestures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276037
+    m_Localized: Yes, I love to have fun and find joy in everything!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470355
+    m_Localized: Sometimes, I like to have fun from time to time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664633
+    m_Localized: Neutral, sometimes fun is nice, but not always
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858916
+    m_Localized: No, I prefer more serious activities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276038
+    m_Localized: Yes, I am tall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470356
+    m_Localized: A little above average
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664634
+    m_Localized: Average height
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858917
+    m_Localized: Below average
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
