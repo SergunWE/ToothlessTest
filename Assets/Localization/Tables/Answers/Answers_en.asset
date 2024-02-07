@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5280040275971
-    m_Localized: Ocean shores
+    m_Localized: Gemstone collar
     m_Metadata:
       m_Items: []
   - m_Id: 5280044470282
@@ -1204,6 +1204,420 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 5280052858917
     m_Localized: Below average
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276039
+    m_Localized: Yes, I love spending time outdoors and enjoying nature!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470357
+    m_Localized: Yes, nature inspires me and brings me peace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664635
+    m_Localized: Neutral, sometimes I enjoy nature, but it is not my main passion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858918
+    m_Localized: No, I prefer to spend time in an urban environment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276040
+    m_Localized: Classical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470358
+    m_Localized: Electronic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664636
+    m_Localized: Hip Hop/Rap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858919
+    m_Localized: Diverse, I like different genres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276041
+    m_Localized: Yes, I am very curious and always eager to learn something new!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470359
+    m_Localized: I am curious in some situations, but not always
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664637
+    m_Localized: Neutral, my degree of curiosity varies depending on the circumstances
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858920
+    m_Localized: No, I rather prefer to stick to what I know
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276042
+    m_Localized: Ancient ruins steeped in history
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470360
+    m_Localized: Majestic mountains for adventurous hikes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664638
+    m_Localized: Tranquil beaches with crystal-clear waters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858921
+    m_Localized: Bustling cities filled with culture and energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470289
+    m_Localized: Headband
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470389
+    m_Localized: Anklet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664667
+    m_Localized: Ribbon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276043
+    m_Localized: Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470361
+    m_Localized: Summer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664639
+    m_Localized: Autumn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858922
+    m_Localized: Winter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276044
+    m_Localized: Chocolate hazelnuts from the Land of Sweets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470362
+    m_Localized: Moon scones with star ice cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664640
+    m_Localized: Magic cookies with sparkly frosting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858923
+    m_Localized: Enchanted berries from the Forest of Mysteries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276045
+    m_Localized: Hot chocolate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470363
+    m_Localized: Fruit smoothie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664641
+    m_Localized: Green tea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858924
+    m_Localized: Freshly squeezed orange juice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276046
+    m_Localized: Purple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470364
+    m_Localized: Brown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664642
+    m_Localized: White
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858925
+    m_Localized: Black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276047
+    m_Localized: The hero/heroine of the main quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470365
+    m_Localized: A secondary character with an interesting story arc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664643
+    m_Localized: An antagonist/villain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858926
+    m_Localized: A wise mentor or mentoress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276048
+    m_Localized: Rose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470366
+    m_Localized: Peony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664644
+    m_Localized: Lily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858927
+    m_Localized: Lilac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276049
+    m_Localized: Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470367
+    m_Localized: Wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664645
+    m_Localized: Dolphin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858928
+    m_Localized: Panda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276050
+    m_Localized: Chess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470368
+    m_Localized: Monopoly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664646
+    m_Localized: Mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858929
+    m_Localized: Scrabble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276051
+    m_Localized: World of Warcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470369
+    m_Localized: The Elder Scrolls universe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664647
+    m_Localized: Mass Effect Galaxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858930
+    m_Localized: Middle-earth from the world of Lord of the Rings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276052
+    m_Localized: Lonely and dark places
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470370
+    m_Localized: Heights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664648
+    m_Localized: Deep waters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858931
+    m_Localized: Forgotten places
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040275972
+    m_Localized: Playful pixie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470290
+    m_Localized: Silly squirrel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470390
+    m_Localized: Graceful unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664668
+    m_Localized: Cheeky goblin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280040276053
+    m_Localized: Meetings with friends and family
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470371
+    m_Localized: Travel and adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664649
+    m_Localized: Learning and professional achievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858932
+    m_Localized: Creativity and self-expression
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470272
+    m_Localized: Sunset on the ocean coast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470372
+    m_Localized: A mountain covered with snow, illuminated by moonlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664650
+    m_Localized: A flowering field of poppies in the morning sunlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858933
+    m_Localized: A starry sky in a place far away from city lights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470273
+    m_Localized: I try to communicate with plants to improve my mood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470373
+    m_Localized: I cast spells from fantasy books to dispel bad moods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664651
+    m_Localized: ' I study astrology and try to understand how the planets affect
+      my mood'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858934
+    m_Localized: I meditate in the dark to process and analyze my emotions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470274
+    m_Localized: That's exactly the question )))
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470374
+    m_Localized: How much time is time?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664652
+    m_Localized: What is the meaning of life?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858935
+    m_Localized: Did you do this or the other?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470275
+    m_Localized: Hidden desires in the subconscious mind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470375
+    m_Localized: The intertwining of reality and dreams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664653
+    m_Localized: Experiments in parallel worlds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858936
+    m_Localized: Interaction with mystical entities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470276
+    m_Localized: Antique books and manuscripts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470376
+    m_Localized: Rare gemstones and minerals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664654
+    m_Localized: Exotic shells and sea glass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858937
+    m_Localized: Unique trinkets and artifacts from around the world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470277
+    m_Localized: '"Knowledge is power."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470377
+    m_Localized: '"Life is beautiful in its diversity."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664655
+    m_Localized: '"Challenging challenges are the key to growth and development."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858938
+    m_Localized: '"Strive for the best every day."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470278
+    m_Localized: No, I don't play video games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470378
+    m_Localized: Sometimes I study information about them, but I don't play them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664656
+    m_Localized: Yes, I like to play various video games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858939
+    m_Localized: I prefer to watch the gameplay rather than participate in it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470279
+    m_Localized: Tea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470379
+    m_Localized: Coffee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664657
+    m_Localized: Both
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858940
+    m_Localized: Neither
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470280
+    m_Localized: Yes, I often pick mushrooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280044470380
+    m_Localized: Yes, sometimes I do it in my spare time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280048664658
+    m_Localized: No, I have never collected mushrooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5280052858941
+    m_Localized: No, I prefer not to collect mushrooms because of the dangers involved
+      in identifying edible and poisonous species
     m_Metadata:
       m_Items: []
   references:
