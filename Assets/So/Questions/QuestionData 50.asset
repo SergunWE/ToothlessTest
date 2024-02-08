@@ -24,9 +24,21 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280040276013
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: d708d62f83afb5b4ea3c7009187d39d6, type: 2}
+      <Score>k__BackingField: -1
+  - <AnswerText>k__BackingField:
+      m_TableReference:
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
+      m_TableEntryReference:
+        m_KeyId: 5280044470331
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -34,29 +46,21 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664609
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 1836778275c89c444963bad412da35f7, type: 2}
+      <Score>k__BackingField: 0
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
-        m_Key: 
-      m_FallbackState: 0
-      m_WaitForCompletion: 0
-      m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
-  - <AnswerText>k__BackingField:
-      m_TableReference:
-        m_TableCollectionName: 
-      m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280052858892
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0

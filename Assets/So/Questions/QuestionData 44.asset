@@ -24,44 +24,52 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280040276007
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: df79117760f004041ba3d3dcb0475c0a, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470325
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 27894257b15b4494c9abd48bfafac2bd, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664603
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 1836778275c89c444963bad412da35f7, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280052858886
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: ff71c8a0252eb084d8efa250a74bdad7, type: 2}
+      <Score>k__BackingField: 1
   references:
     version: 2
     RefIds: []

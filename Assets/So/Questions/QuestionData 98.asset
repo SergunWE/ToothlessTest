@@ -24,9 +24,9 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470279
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -34,9 +34,9 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470379
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -44,24 +44,32 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664657
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 042c92a96278299418b5157d6454ea64, type: 2}
+      <Score>k__BackingField: -1
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: df79117760f004041ba3d3dcb0475c0a, type: 2}
+      <Score>k__BackingField: -1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280052858940
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 042c92a96278299418b5157d6454ea64, type: 2}
+      <Score>k__BackingField: -1
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: df79117760f004041ba3d3dcb0475c0a, type: 2}
+      <Score>k__BackingField: -1
   references:
     version: 2
     RefIds: []

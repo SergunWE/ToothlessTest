@@ -24,9 +24,9 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280040275996
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -34,9 +34,9 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470314
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -44,9 +44,9 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664592
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -54,9 +54,9 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664692
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0

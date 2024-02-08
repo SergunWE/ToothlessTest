@@ -24,39 +24,45 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280040275976
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 042c92a96278299418b5157d6454ea64, type: 2}
+      <Score>k__BackingField: -1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470294
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: d708d62f83afb5b4ea3c7009187d39d6, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470394
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: df79117760f004041ba3d3dcb0475c0a, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664672
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0

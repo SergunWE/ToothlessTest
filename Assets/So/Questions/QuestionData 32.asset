@@ -24,9 +24,9 @@ MonoBehaviour:
   <AnswersData>k__BackingField:
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280040275995
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -34,9 +34,9 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280044470313
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
@@ -44,19 +44,21 @@ MonoBehaviour:
     <AnswerScore>k__BackingField: []
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664591
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    <AnswerScore>k__BackingField: []
+    <AnswerScore>k__BackingField:
+    - <ResultData>k__BackingField: {fileID: 11400000, guid: 47520652518e7b144a86d638507a4c0f, type: 2}
+      <Score>k__BackingField: 1
   - <AnswerText>k__BackingField:
       m_TableReference:
-        m_TableCollectionName: 
+        m_TableCollectionName: GUID:084a5fbba0972484a8e64189f532ff01
       m_TableEntryReference:
-        m_KeyId: 0
+        m_KeyId: 5280048664691
         m_Key: 
       m_FallbackState: 0
       m_WaitForCompletion: 0
