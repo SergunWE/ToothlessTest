@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.Localization.Components;
 using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
@@ -9,6 +10,8 @@ namespace ToothlessTestSpace
 {
     public class QuestionManager : MonoBehaviour
     {
+        [SerializeField] private LocalizeStringEvent stringEvent;
+        
         [SerializeField] private UnityEvent questionInitialized;
         [SerializeField] private UnityEvent<QuestionDataSo> newQuestionSet;
         [SerializeField] private UnityEvent questionEnded;
@@ -23,6 +26,11 @@ namespace ToothlessTestSpace
         private void Awake()
         {
             InitQuestions();
+            SetNewQuestion();
+        }
+
+        public void OnAnswerGiven()
+        {
             SetNewQuestion();
         }
 
@@ -55,7 +63,9 @@ namespace ToothlessTestSpace
             }
 
             _currentQuestion = questions[_queueQuestions[_currentQuestionIndex]];
+            stringEvent.StringReference = _currentQuestion.Question;
             newQuestionSet?.Invoke(_currentQuestion);
+            _currentQuestionIndex++;
         }
 
         private static void Shuffle<T>(IList<T> list)
