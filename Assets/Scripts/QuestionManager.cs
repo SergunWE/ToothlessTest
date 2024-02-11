@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization.Components;
-using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
 namespace ToothlessTestSpace
@@ -12,12 +10,11 @@ namespace ToothlessTestSpace
     {
         [SerializeField] private LocalizeStringEvent stringEvent;
         
-        [SerializeField] private UnityEvent questionInitialized;
+        [SerializeField, Space] private UnityEvent questionInitialized;
         [SerializeField] private UnityEvent<QuestionDataSo> newQuestionSet;
         [SerializeField] private UnityEvent questionEnded;
-
-        [SerializeField] private List<ResultDataSo> results;
-        [SerializeField] private List<QuestionDataSo> questions;
+        
+        [SerializeField, Space] private List<QuestionDataSo> questions;
 
         private readonly List<int> _queueQuestions = new();
         private QuestionDataSo _currentQuestion;
@@ -44,11 +41,6 @@ namespace ToothlessTestSpace
             }
 
             Shuffle(_queueQuestions);
-
-            foreach (var result in results)
-            {
-                result.Reset();
-            }
 
             _currentQuestionIndex = 0;
             questionInitialized?.Invoke();
