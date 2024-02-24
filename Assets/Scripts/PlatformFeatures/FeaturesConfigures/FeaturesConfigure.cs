@@ -5,10 +5,15 @@ namespace ToothlessTestSpace.FeaturesConfigures
 {
     public abstract class FeaturesConfigure : MonoBehaviour
     {
+        [SerializeField] private bool forcedDisable;
+        
         private void Start()
         {
 #if !UNITY_EDITOR
-            RegisterFeatures();
+            if(!forcedDisable)
+            {
+                RegisterFeatures();
+            }
 #endif
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }

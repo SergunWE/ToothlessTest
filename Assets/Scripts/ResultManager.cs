@@ -13,7 +13,6 @@ namespace ToothlessTestSpace
 #if UNITY_EDITOR
         [SerializeField] private RawImage rawImage;
 #endif
-        [SerializeField, Space] private GameObject uiRoot;
         [SerializeField] private VideoPlayer videoPlayer;
 
         [SerializeField, Space] private string urlPrefix;
@@ -28,10 +27,8 @@ namespace ToothlessTestSpace
             InitResults();
         }
         
-        private void InitResults()
+        public void InitResults()
         {
-            uiRoot.SetActive(false);
-            
             foreach (var result in results)
             {
                 result.Reset();
@@ -44,6 +41,7 @@ namespace ToothlessTestSpace
 
 #if UNITY_EDITOR
             rawImage.texture = result.DebugSprite.texture;
+            videoLoaded?.Invoke();
             return;
 #endif
             videoPlayer.url = urlPrefix + result.VideoFileName + urlPostfix;

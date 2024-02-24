@@ -17,7 +17,15 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 73bc1cc23f6eda048aaf26f5ab62dc0a, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 7930633933082624
+    m_Localized: "Sonu\xE7 indiriliyor..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930678254292992
+    m_Localized: "Ya\u015Fas\u0131n!"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

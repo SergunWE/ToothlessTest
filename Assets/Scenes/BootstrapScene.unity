@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: YandexGameFeaturesConfigure
       objectReference: {fileID: 0}
+    - target: {fileID: 5556782989775578095, guid: 907fad3ee1168a84f843e2e971da625f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7370214870461649870, guid: 907fad3ee1168a84f843e2e971da625f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization.Components;
@@ -8,6 +9,7 @@ namespace ToothlessTestSpace
 {
     public class QuestionManager : MonoBehaviour
     {
+        [SerializeField] private int maxQuestion;
         [SerializeField] private LocalizeStringEvent stringEvent;
         
         [SerializeField, Space] private UnityEvent questionInitialized;
@@ -19,6 +21,12 @@ namespace ToothlessTestSpace
         private readonly List<int> _queueQuestions = new();
         private QuestionDataSo _currentQuestion;
         private int _currentQuestionIndex;
+
+        public void ResetQuestion()
+        {
+            InitQuestions();
+            SetNewQuestion();
+        }
 
         private void Awake()
         {
@@ -48,7 +56,7 @@ namespace ToothlessTestSpace
 
         private void SetNewQuestion()
         {
-            if (_currentQuestionIndex >= _queueQuestions.Count)
+            if (_currentQuestionIndex >= maxQuestion)
             {
                 questionEnded?.Invoke();
                 return;
