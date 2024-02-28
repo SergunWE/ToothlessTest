@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using ToothlessTestSpace.PlatformFeatures;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
@@ -14,8 +17,7 @@ namespace ToothlessTestSpace
         [SerializeField] private RawImage rawImage;
 #endif
         [SerializeField] private VideoPlayer videoPlayer;
-
-        [SerializeField, Space] private string urlPrefix;
+        
         [SerializeField] private string urlPostfix;
 
         [SerializeField, Space] private UnityEvent videoLoaded;
@@ -38,13 +40,8 @@ namespace ToothlessTestSpace
         public void OnQuestionEnded()
         {
             var result = GetResult();
-
-#if UNITY_EDITOR
-            rawImage.texture = result.DebugSprite.texture;
-            videoLoaded?.Invoke();
-            return;
-#endif
-            videoPlayer.url = urlPrefix + result.VideoFileName + urlPostfix;
+            
+            videoPlayer.url = Path.Combine(Application.streamingAssetsPath,result.VideoFileName + urlPostfix);
             videoPlayer.prepareCompleted += OnPrepareCompleted;
             videoPlayer.Prepare();
         }
@@ -53,7 +50,7 @@ namespace ToothlessTestSpace
         {
             videoPlayer.prepareCompleted -= OnPrepareCompleted;
             videoPlayer.Play();
-            videoLoaded?.Invoke();
+            StartCoroutine(ResultCoroutine());
         }
 
         private ResultDataSo GetResult()
@@ -61,6 +58,13 @@ namespace ToothlessTestSpace
             int maxValue = results.Max(x => x.Score);
             var maxItems = results.Where(x => x.Score == maxValue).ToList();
             return maxItems[Random.Range(0, maxItems.Count)];
+        }
+
+        private IEnumerator ResultCoroutine()
+        {
+            yield return new WaitForSeconds(2);
+            FeatureDependency.AdFeature.ShowFullscreen();
+            videoLoaded?.Invoke();
         }
 
     }
