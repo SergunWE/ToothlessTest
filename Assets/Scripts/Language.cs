@@ -25,7 +25,7 @@ namespace ToothlessTestSpace
             }
             
             var locale = LocalizationSettings.AvailableLocales.Locales.Find(x =>
-                x.Identifier.Code.IndexOf(YandexGame.lang, StringComparison.Ordinal) != -1);
+                x.Identifier.Code.IndexOf(YandexGame.EnvironmentData.language, StringComparison.Ordinal) != -1);
             var localeIdentifier = locale == null ? new LocaleIdentifier(Application.systemLanguage): locale.Identifier;
             
             var newLocale = LocalizationSettings.AvailableLocales.GetLocale(localeIdentifier);
